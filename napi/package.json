@@ -1,0 +1,9 @@
+{
+  "name": "cpp-image-addon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "node-addon-api": "^5.1.0"
+  },
+  "gypfile": true
+}
